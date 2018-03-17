@@ -1,0 +1,31 @@
+{
+  "name": "cleanmac",
+  "version": "1.0.0",
+  "description": "a tool for clean mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younthu/CleanMac.git"
+  },
+  "keywords": [
+    "clean",
+    "mac",
+    "nodejs"
+  ],
+  "author": "Andrew Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/younthu/CleanMac/issues"
+  },
+  "homepage": "https://github.com/younthu/CleanMac#readme",
+  "dependencies": {
+    "async-each": "^1.0.1",
+    "commander": "^2.15.0",
+    "extend-shallow": "^3.0.2",
+    "matched": "^1.0.2",
+    "rimraf": "^2.6.2"
+  }
+}
