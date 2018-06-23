@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "a tool for clean mac",
   "main": "index.js",
+  "bin": {
+    "cleanmac": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
